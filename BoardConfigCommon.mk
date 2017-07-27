@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2014 The CyanogenMod Project
+#               2017 The MoKKee Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,3 +16,15 @@
 #
 
 BOARD_VENDOR := oneplus
+
+# MK Hardware
+BOARD_USES_MOKEE_HARDWARE := true
+BOARD_HARDWARE_CLASS += \
+    hardware/mokee/mkhw
+
+# QCOM Power
+TARGET_POWERHAL_VARIANT := qcom
+
+# Releasetools
+TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_oppo
+TARGET_RELEASETOOLS_EXTENSIONS := device/oppo/common
