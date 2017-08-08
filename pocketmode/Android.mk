@@ -16,6 +16,8 @@
 
 LOCAL_PATH := $(call my-dir)
 
+ifneq ($(strip $(TARGET_USES_OPPO_CONFIGPANEL)), true)
+
 include $(CLEAR_VARS)
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
@@ -30,3 +32,5 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
 include $(BUILD_PACKAGE)
+
+endif # TARGET_USES_OPPO_CONFIGPANEL

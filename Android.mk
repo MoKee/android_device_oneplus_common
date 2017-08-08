@@ -18,9 +18,7 @@
 LOCAL_PATH := $(call my-dir)
 
 ifneq ($(filter oneplus,$(BOARD_VENDOR)),)
-ifneq ($(strip $(TARGET_USES_OPPO_CONFIGPANEL)), true)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
-endif
 endif

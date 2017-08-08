@@ -26,7 +26,3 @@ PRODUCT_PACKAGES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
-
-# Recovery
-PRODUCT_PACKAGES += \
-    librecovery_updater_oppo
