@@ -28,5 +28,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 # Recovery
+ifneq ($(strip $(TARGET_USES_OPPO_UPDATER)), true)
 PRODUCT_PACKAGES += \
-    librecovery_updater_oppo
+    librecovery_updater_oneplus
+endif
