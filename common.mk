@@ -20,8 +20,8 @@
 #     OneplusDoze
 
 # Keyhandler
-PRODUCT_PACKAGES += \
-    ConfigPanel
+# PRODUCT_PACKAGES += \
+#     ConfigPanel
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
