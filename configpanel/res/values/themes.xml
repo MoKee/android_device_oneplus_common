@@ -15,7 +15,14 @@
      limitations under the License.
 -->
 <resources>
-    <style name="Theme.Main" parent="@android:style/Theme.Material.Settings">
-        <item name="preferenceTheme">@android:style/Theme.Material.Settings</item>
+
+    <style name="PreferenceTheme" parent="@style/PreferenceThemeOverlay.v14.Material">
+        <item name="android:scrollbars">vertical</item>
     </style>
+
+    <style name="Theme.Settings" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="android:actionBarStyle">@android:style/Widget.Material.ActionBar.Solid</item>
+    </style>
+
 </resources>
