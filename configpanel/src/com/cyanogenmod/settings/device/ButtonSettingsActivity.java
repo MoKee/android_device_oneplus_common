@@ -16,6 +16,7 @@
 
 package com.cyanogenmod.settings.device;
 
+import android.app.ActionBar;
 import android.content.Context;
 import android.os.Bundle;
 
@@ -39,8 +40,14 @@ public class ButtonSettingsActivity extends SettingsDrawerActivity {
         }
     }
 
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        final ActionBar actionBar = getActionBar();
+        if (actionBar != null) {
+            actionBar.setDisplayHomeAsUpEnabled(true);
+            actionBar.setHomeButtonEnabled(true);
+        }
         getFragmentManager().beginTransaction().replace(R.id.content_frame,
                 new ButtonSettingsFragment()).commit();
     }
