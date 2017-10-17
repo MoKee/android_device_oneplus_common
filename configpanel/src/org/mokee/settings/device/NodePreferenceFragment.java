@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.settings.device;
+package org.mokee.settings.device;
 
 import android.os.Bundle;
 import android.support.v14.preference.PreferenceFragment;

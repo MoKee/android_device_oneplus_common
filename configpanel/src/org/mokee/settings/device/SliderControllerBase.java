@@ -22,7 +22,6 @@ import android.util.Log;
 
 import mokee.providers.MKSettings;
 
-import com.cyanogenmod.settings.device.ButtonConstants;
 import org.mokee.internal.util.FileUtils;
 
 public abstract class SliderControllerBase {
