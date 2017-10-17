@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.settings.device;
+package org.mokee.settings.device;
 
 import org.mokee.internal.util.FileUtils;
 
