@@ -24,8 +24,6 @@ import android.support.v7.preference.Preference;
 import android.text.TextUtils;
 import android.view.MenuItem;
 
-import com.android.settingslib.drawer.SettingsDrawerActivity;
-
 import org.mokee.internal.util.FileUtils;
 
 public abstract class NodePreferenceFragment extends PreferenceFragment
