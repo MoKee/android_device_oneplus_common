@@ -28,7 +28,7 @@
     <!-- Names of the key handler classes -->
     <string-array name="config_deviceKeyHandlerClasses" translatable="false">
         <item>org.mokee.mkparts.gestures.KeyHandler</item>
-        <item>com.cyanogenmod.settings.device.KeyHandler</item>
+        <item>org.mokee.settings.device.KeyHandler</item>
     </string-array>
 
 </resources>
