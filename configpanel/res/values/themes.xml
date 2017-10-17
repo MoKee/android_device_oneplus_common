@@ -14,15 +14,22 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <style name="PreferenceTheme" parent="@style/PreferenceThemeOverlay.v14.Material">
         <item name="android:scrollbars">vertical</item>
+        <item name="dialogPreferenceStyle">@style/SettingsDialogPreference</item>
+        <item name="preferenceCategoryStyle">@style/SettingsPreferenceCategory</item>
+        <item name="preferenceFragmentStyle">@style/PreferenceFragmentStyle</item>
+        <item name="preferenceStyle">@style/SettingsPreference</item>
+        <item name="switchPreferenceStyle">@style/SettingsSwitchPreference</item>
     </style>
 
     <style name="Theme.Settings" parent="@android:style/Theme.DeviceDefault.Settings">
         <item name="preferenceTheme">@style/PreferenceTheme</item>
-        <item name="android:actionBarStyle">@android:style/Widget.Material.ActionBar.Solid</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
     </style>
+
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid" />
 
 </resources>

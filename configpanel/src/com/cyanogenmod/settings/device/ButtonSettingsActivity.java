@@ -19,12 +19,11 @@ package com.cyanogenmod.settings.device;
 import android.app.ActionBar;
 import android.content.Context;
 import android.os.Bundle;
-
-import com.android.settingslib.drawer.SettingsDrawerActivity;
+import android.preference.PreferenceActivity;
 
 import org.mokee.internal.util.FileUtils;
 
-public class ButtonSettingsActivity extends SettingsDrawerActivity {
+public class ButtonSettingsActivity extends PreferenceActivity {
 
     static boolean isSupported() {
         return FileUtils.fileExists(ButtonConstants.BUTTON_SWAP_NODE) ||
@@ -48,7 +47,7 @@ public class ButtonSettingsActivity extends SettingsDrawerActivity {
             actionBar.setDisplayHomeAsUpEnabled(true);
             actionBar.setHomeButtonEnabled(true);
         }
-        getFragmentManager().beginTransaction().replace(R.id.content_frame,
+        getFragmentManager().beginTransaction().replace(android.R.id.content,
                 new ButtonSettingsFragment()).commit();
     }
 
