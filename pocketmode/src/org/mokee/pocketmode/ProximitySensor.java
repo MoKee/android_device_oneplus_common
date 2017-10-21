@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.pocketmode;
+package org.mokee.pocketmode;
 
 import android.content.Context;
 import android.hardware.Sensor;

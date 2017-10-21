@@ -17,7 +17,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cyanogenmod.pocketmode"
+    package="org.mokee.pocketmode"
     android:sharedUserId="android.uid.system">
 
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
