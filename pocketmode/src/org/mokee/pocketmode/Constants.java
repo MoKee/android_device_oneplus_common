@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.pocketmode;
+package org.mokee.pocketmode;
 
 class Constants {
 
