@@ -15,10 +15,6 @@
 # limitations under the License.
 #
 
-# Doze
-# PRODUCT_PACKAGES += \
-#     OneplusDoze
-
 # Keyhandler
 PRODUCT_PACKAGES += \
     ConfigPanel
