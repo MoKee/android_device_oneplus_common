@@ -16,6 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <string name="button_panel_summary">Swap buttons, notification slider</string>
+
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Notification slider</string>
 
