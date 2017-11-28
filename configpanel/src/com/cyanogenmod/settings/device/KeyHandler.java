@@ -114,14 +114,18 @@ public class KeyHandler implements DeviceKeyHandler {
         }
     }
 
-    public boolean handleKeyEvent(KeyEvent event) {
+    public KeyEvent handleKeyEvent(KeyEvent event) {
         if (event.getAction() != KeyEvent.ACTION_UP) {
-            return false;
+            return event;
         }
 
         int scanCode = event.getScanCode();
-        return mSliderController != null &&
-                mSliderController.processEvent(scanCode);
+        if (mSliderController != null &&
+                mSliderController.processEvent(scanCode)) {
+            return null;
+        }
+
+        return event;
     }
 
 }
