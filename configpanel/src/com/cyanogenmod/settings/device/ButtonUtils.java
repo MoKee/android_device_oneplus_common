@@ -23,7 +23,6 @@ import org.mokee.internal.util.FileUtils;
 class ButtonUtils {
 
     private static final int KEY_MASK_BACK = 0x02;
-    private static final int KEY_MASK_APP_SWITCH = 0x10;
 
     static boolean isSliderSupported() {
         return FileUtils.fileExists(ButtonConstants.SLIDER_STATE_NODE);
@@ -33,10 +32,7 @@ class ButtonUtils {
         final int activeHardwareKeys = context.getResources().getInteger(
                 com.android.internal.R.integer.config_deviceHardwareKeys);
 
-        final boolean hasBack = (activeHardwareKeys & KEY_MASK_BACK) != 0;
-        final boolean hasAppSwitch = (activeHardwareKeys & KEY_MASK_APP_SWITCH) != 0;
-
-        return hasBack && hasAppSwitch;
+        return (activeHardwareKeys & KEY_MASK_BACK) != 0;
     }
 
 }
