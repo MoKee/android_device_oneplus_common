@@ -20,6 +20,10 @@ import org.mokee.internal.util.FileUtils;
 
 class ButtonUtils {
 
+    static boolean isHardwareKeysSupported() {
+        return FileUtils.fileExists(ButtonConstants.BUTTON_SWAP_NODE);
+    }
+
     static boolean isSliderSupported() {
         return FileUtils.fileExists(ButtonConstants.SLIDER_STATE_NODE);
     }

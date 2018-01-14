@@ -21,12 +21,10 @@ import android.content.Context;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 
-import org.mokee.internal.util.FileUtils;
-
 public class ButtonSettingsActivity extends PreferenceActivity {
 
     static boolean isSupported() {
-        return FileUtils.fileExists(ButtonConstants.BUTTON_SWAP_NODE) ||
+        return ButtonUtils.isHardwareKeysSupported() ||
                 ButtonUtils.isSliderSupported();
     }
 
