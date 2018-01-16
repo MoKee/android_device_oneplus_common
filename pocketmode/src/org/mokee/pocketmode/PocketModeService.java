@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2016 The CyanogenMod Project
  *               2017 The LineageOS Project
- *               2017 The MoKee Open Source Project
+ *               2017-2018 The MoKee Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -35,10 +35,10 @@ public class PocketModeService extends Service {
 
     private SettingObserver mSettingObserver;
     private ScreenReceiver mScreenReceiver;
-    private ProximitySensor mProximitySensor;
+    private PocketSensor mPocketSensor;
 
     private boolean mIsListeningScreen = false;
-    private boolean mIsListeningProximity = false;
+    private boolean mIsListeningPocket = false;
 
     @Override
     public void onCreate() {
@@ -47,7 +47,9 @@ public class PocketModeService extends Service {
 
         mSettingObserver = new SettingObserver(this);
         mScreenReceiver = new ScreenReceiver(this);
-        mProximitySensor = new ProximitySensor(this);
+        mPocketSensor = PocketSensorImpl.isSupported(this)
+                ? new PocketSensorImpl(this)
+                : new ProximitySensor(this);
 
         mSettingObserver.enable();
 
@@ -69,9 +71,9 @@ public class PocketModeService extends Service {
             mIsListeningScreen = false;
         }
 
-        if (mIsListeningProximity) {
-            mProximitySensor.disable();
-            mIsListeningProximity = false;
+        if (mIsListeningPocket) {
+            mPocketSensor.disable();
+            mIsListeningPocket = false;
         }
     }
 
@@ -99,23 +101,23 @@ public class PocketModeService extends Service {
 
     void onDisplayOn() {
         if (DEBUG) Log.d(TAG, "Display on");
-        if (mIsListeningProximity) {
-            mProximitySensor.disable();
-            mIsListeningProximity = false;
+        if (mIsListeningPocket) {
+            mPocketSensor.disable();
+            mIsListeningPocket = false;
         }
     }
 
     void onDisplayOff() {
         if (DEBUG) Log.d(TAG, "Display off");
         if (Utils.isFingerprintEnabled(this)) {
-            mProximitySensor.enable();
-            mIsListeningProximity = true;
+            mPocketSensor.enable();
+            mIsListeningPocket = true;
         }
     }
 
-    void onProximityNear(boolean isNear) {
-        if (DEBUG) Log.d(TAG, "onProximityNear: " + isNear);
-        FileUtils.writeLine(Constants.FP_DISABLE_NODE, isNear ? "1" : "0");
+    void onInPocket(boolean isInPocket) {
+        if (DEBUG) Log.d(TAG, "onInPocket: " + isInPocket);
+        FileUtils.writeLine(Constants.FP_DISABLE_NODE, isInPocket ? "1" : "0");
     }
 
 }

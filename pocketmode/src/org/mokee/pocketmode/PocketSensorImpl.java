@@ -1,7 +1,5 @@
 /*
- * Copyright (c) 2016 The CyanogenMod Project
- *               2017 The LineageOS Project
- *               2017-2018 The MoKee Open Source Project
+ * Copyright (c) 2018 The MoKee Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,25 +16,32 @@
 
 package org.mokee.pocketmode;
 
-import android.hardware.Sensor;
+import android.content.Context;
 import android.hardware.SensorEvent;
+import android.hardware.SensorManager;
 import android.util.Log;
 
-class ProximitySensor extends PocketSensor {
+class PocketSensorImpl extends PocketSensor {
 
-    private static final String TAG = "ProximitySensor";
+    private static final String TAG = "PocketSensor";
     private static final boolean DEBUG = false;
 
-    ProximitySensor(PocketModeService service) {
+    static boolean isSupported(Context context) {
+        final SensorManager sm = (SensorManager) context.getSystemService(
+                Context.SENSOR_SERVICE);
+        return Utils.findSensor(sm, "com.oneplus.sensor.pocket") != null;
+    }
+
+    PocketSensorImpl(PocketModeService service) {
         super(service);
-        mSensor = mSensorManager.getDefaultSensor(Sensor.TYPE_PROXIMITY);
+        mSensor = Utils.findSensor(mSensorManager, "com.oneplus.sensor.pocket");
     }
 
     @Override
     public void onSensorChanged(SensorEvent event) {
-        boolean isNear = event.values[0] < mSensor.getMaximumRange();
-        if (DEBUG) Log.d(TAG, "isNear: " + isNear);
-        mService.onInPocket(isNear);
+        boolean isInPocket = event.values[0] != 0;
+        if (DEBUG) Log.d(TAG, "isInPocket: " + isInPocket);
+        mService.onInPocket(isInPocket);
     }
 
 }

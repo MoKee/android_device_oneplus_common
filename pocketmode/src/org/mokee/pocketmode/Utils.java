@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 The MoKee Open Source Project
+ * Copyright (c) 2017-2018 The MoKee Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,6 +17,8 @@
 package org.mokee.pocketmode;
 
 import android.content.Context;
+import android.hardware.Sensor;
+import android.hardware.SensorManager;
 import android.hardware.fingerprint.FingerprintManager;
 
 import mokee.providers.MKSettings;
@@ -48,6 +50,15 @@ class Utils {
         final FingerprintManager fm = (FingerprintManager) context
                 .getSystemService(Context.FINGERPRINT_SERVICE);
         return fm.hasEnrolledFingerprints();
+    }
+
+    static Sensor findSensor(SensorManager sm, String type) {
+        for (Sensor sensor : sm.getSensorList(Sensor.TYPE_ALL)) {
+            if (type.equals(sensor.getStringType())) {
+                return sensor;
+            }
+        }
+        return null;
     }
 
 }
