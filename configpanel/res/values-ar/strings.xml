@@ -16,22 +16,40 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="button_panel_summary">مبادلة الازرار ، شريط تمرير الإخطارات</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">أداة تمرار الإشعارات</string>
   <string name="notification_slider_selection_dialog_title">إجراء</string>
   <string name="notification_slider_top_position">الموضع العلوي</string>
   <string name="notification_slider_middle_position">الموضع الأوسط</string>
   <string name="notification_slider_bottom_position">الموضع السفلي</string>
+  <string name="notification_slider_usage_title">استخدم شريط التمرير</string>
+  <string name="notification_slider_for_notification">الاشعارات</string>
+  <string name="notification_slider_for_flashlight">الكشاف</string>
   <string name="notification_slider_for_brightness">السطوع</string>
+  <string name="notification_slider_for_rotation">تدوير</string>
+  <string name="notification_slider_for_ringer">الرنين</string>
+  <string name="notification_slider_for_caffeine">وضع الكافيين</string>
   <string name="notification_slider_mode_total_silence">صمت تام</string>
   <string name="notification_slider_mode_alarms_only">إنذارات فقط</string>
   <string name="notification_slider_mode_priority_only">الأولوية فقط</string>
   <string name="notification_slider_mode_none">لا شيء</string>
   <string name="notification_slider_flashlight_off">إيقاف</string>
   <string name="notification_slider_flashlight_on">تشغيل</string>
+  <string name="notification_slider_flashlight_blink">وميض</string>
   <string name="notification_slider_brightness_auto">تلقائية</string>
+  <string name="notification_slider_brightness_brightest">اكثر سطوعاً</string>
+  <string name="notification_slider_brightness_darkest">معتم</string>
   <string name="notification_slider_rotation_auto">تلقائية</string>
   <string name="notification_slider_rotation_portrait">صورة لوجه</string>
+  <string name="notification_slider_rotation_landscape_90">عرضي (90 درجة)</string>
+  <string name="notification_slider_rotation_landscape_270">عرضي (270 درجة)</string>
+  <string name="notification_slider_ringer_normal">عادي</string>
   <string name="notification_slider_ringer_vibrate">اهتزاز</string>
   <string name="notification_slider_ringer_silent">صامت</string>
+  <string name="notification_slider_caffeine_off">إيقاف</string>
+  <string name="notification_slider_caffeine_5min">5 دقائق</string>
+  <string name="notification_slider_caffeine_10min">10 دقائق</string>
+  <string name="notification_slider_caffeine_30min">30 دقيقة</string>
+  <string name="notification_slider_caffeine_infinity">إلى الأبد</string>
 </resources>

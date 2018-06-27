@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">ተግባር</string>
   <string name="notification_slider_for_brightness">ብሩህነት</string>
   <string name="notification_slider_flashlight_on">በርቷል</string>
   <string name="notification_slider_brightness_auto">ራስ ሰር</string>
