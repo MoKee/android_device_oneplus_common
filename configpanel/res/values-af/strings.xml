@@ -16,40 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="button_panel_summary">Ruil knoppies, kennisgewing skuiwer</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Kennisgewing skuiwer</string>
   <string name="notification_slider_selection_dialog_title">Handeling</string>
   <string name="notification_slider_top_position">Boonste posisie</string>
   <string name="notification_slider_middle_position">Posisie in die middel</string>
   <string name="notification_slider_bottom_position">Onderste posisie</string>
-  <string name="notification_slider_usage_title">Gebruik skuiwer vir</string>
-  <string name="notification_slider_for_notification">Kennisgewing</string>
-  <string name="notification_slider_for_flashlight">Flitslig</string>
   <string name="notification_slider_for_brightness">Helderheid</string>
-  <string name="notification_slider_for_rotation">Rotering</string>
-  <string name="notification_slider_for_ringer">Luier</string>
-  <string name="notification_slider_for_caffeine">Kafeïen</string>
   <string name="notification_slider_mode_total_silence">Totale stilte</string>
   <string name="notification_slider_mode_alarms_only">Alleenlik wekkers</string>
   <string name="notification_slider_mode_priority_only">Prioriteit alleenlik</string>
   <string name="notification_slider_mode_none">Geen</string>
-  <string name="notification_slider_flashlight_off">Af</string>
   <string name="notification_slider_flashlight_on">Aan</string>
-  <string name="notification_slider_flashlight_blink">Flikker</string>
   <string name="notification_slider_brightness_auto">Outo</string>
-  <string name="notification_slider_brightness_brightest">Helderste</string>
-  <string name="notification_slider_brightness_darkest">Donkerste</string>
   <string name="notification_slider_rotation_auto">Outo</string>
   <string name="notification_slider_rotation_portrait">Portret</string>
-  <string name="notification_slider_rotation_landscape_90">Landskap (90%)</string>
-  <string name="notification_slider_rotation_landscape_270">Landskap (270°)</string>
-  <string name="notification_slider_ringer_normal">Normaal</string>
   <string name="notification_slider_ringer_vibrate">Vibreer</string>
-  <string name="notification_slider_ringer_silent">Stil</string>
-  <string name="notification_slider_caffeine_off">Af</string>
-  <string name="notification_slider_caffeine_5min">5 minute</string>
-  <string name="notification_slider_caffeine_10min">10 minute</string>
-  <string name="notification_slider_caffeine_30min">30 minute</string>
-  <string name="notification_slider_caffeine_infinity">Permanent</string>
 </resources>

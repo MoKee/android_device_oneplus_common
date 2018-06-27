@@ -17,7 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Isenzo</string>
   <string name="notification_slider_for_brightness">Ukugqama</string>
   <string name="notification_slider_flashlight_on">Vuliwe</string>
   <string name="notification_slider_brightness_auto">Okuzenzakalelayo</string>

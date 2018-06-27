@@ -22,7 +22,6 @@
   <string name="notification_slider_top_position">Posición cimera</string>
   <string name="notification_slider_middle_position">Posición central</string>
   <string name="notification_slider_bottom_position">Posición baxera</string>
-  <string name="notification_slider_for_brightness">Brilléu</string>
   <string name="notification_slider_mode_total_silence">Silenciu total</string>
   <string name="notification_slider_mode_alarms_only">Namái alarmes</string>
   <string name="notification_slider_mode_priority_only">Namái prioridá</string>
