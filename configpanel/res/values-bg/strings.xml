@@ -27,6 +27,7 @@
   <string name="notification_slider_for_flashlight">Фенерче</string>
   <string name="notification_slider_for_brightness">Ярко</string>
   <string name="notification_slider_for_rotation">Завъртане</string>
+  <string name="notification_slider_for_ringer">Звънец</string>
   <string name="notification_slider_for_caffeine">Кофеин</string>
   <string name="notification_slider_mode_total_silence">Пълна тишина</string>
   <string name="notification_slider_mode_alarms_only">Само будилници</string>
