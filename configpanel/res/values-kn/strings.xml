@@ -23,6 +23,7 @@
   <string name="notification_slider_for_brightness">ಪ್ರಖರತೆ</string>
   <string name="notification_slider_for_rotation">ಆವರ್ತನ</string>
   <string name="notification_slider_for_ringer">ರಿಂಗರ್</string>
+  <string name="notification_slider_for_caffeine">ಕ್ಯಾಫೀನ್</string>
   <string name="notification_slider_mode_none">ಎಲ್ಲ</string>
   <string name="notification_slider_flashlight_off">ಆರಿಸು</string>
   <string name="notification_slider_flashlight_on">ಆರಂಭಿಸು</string>

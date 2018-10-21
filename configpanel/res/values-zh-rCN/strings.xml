@@ -51,5 +51,5 @@
   <string name="notification_slider_caffeine_5min">5 分钟</string>
   <string name="notification_slider_caffeine_10min">10 分钟</string>
   <string name="notification_slider_caffeine_30min">30 分钟</string>
-  <string name="notification_slider_caffeine_infinity">无限时长</string>
+  <string name="notification_slider_caffeine_infinity">永久</string>
 </resources>
