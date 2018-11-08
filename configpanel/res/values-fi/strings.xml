@@ -16,35 +16,35 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Ilmoitussäädin</string>
-  <string name="notification_slider_selection_dialog_title">Toiminto</string>
-  <string name="notification_slider_top_position">Yläasento</string>
-  <string name="notification_slider_middle_position">Keskiasento</string>
-  <string name="notification_slider_bottom_position">Ala-asento</string>
-  <string name="notification_slider_usage_title">Käytä liukusäädintä</string>
-  <string name="notification_slider_for_notification">Ilmoitus</string>
-  <string name="notification_slider_for_flashlight">Taskulamppu</string>
-  <string name="notification_slider_for_brightness">Kirkkaus</string>
-  <string name="notification_slider_for_rotation">Näytön kierto</string>
-  <string name="notification_slider_for_ringer">Hälyytys</string>
-  <string name="notification_slider_for_caffeine">Kofeiini</string>
-  <string name="notification_slider_mode_total_silence">Täysin äänetön</string>
-  <string name="notification_slider_mode_alarms_only">Vain hälytykset</string>
-  <string name="notification_slider_mode_priority_only">Vain tärkeät</string>
-  <string name="notification_slider_mode_none">Pois käytöstä</string>
-  <string name="notification_slider_flashlight_off">Pois</string>
-  <string name="notification_slider_flashlight_on">Käytössä</string>
-  <string name="notification_slider_flashlight_blink">Vilkuta</string>
-  <string name="notification_slider_brightness_auto">Autom.</string>
-  <string name="notification_slider_brightness_brightest">Kirkkain</string>
-  <string name="notification_slider_brightness_darkest">Tummin</string>
-  <string name="notification_slider_rotation_auto">Autom.</string>
-  <string name="notification_slider_rotation_portrait">Muotokuva</string>
-  <string name="notification_slider_rotation_landscape_90">Vaakakuva (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Vaakakuva (270°)</string>
-  <string name="notification_slider_ringer_normal">Normaali</string>
-  <string name="notification_slider_ringer_vibrate">Värinä</string>
-  <string name="notification_slider_ringer_silent">Äänetön</string>
-  <string name="notification_slider_caffeine_off">Pois</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Ilmoitussäädin</string>
+    <string name="notification_slider_selection_dialog_title">Toiminto</string>
+    <string name="notification_slider_top_position">Yläasento</string>
+    <string name="notification_slider_middle_position">Keskiasento</string>
+    <string name="notification_slider_bottom_position">Ala-asento</string>
+    <string name="notification_slider_usage_title">Käytä liukusäädintä</string>
+    <string name="notification_slider_for_notification">Ilmoitus</string>
+    <string name="notification_slider_for_flashlight">Taskulamppu</string>
+    <string name="notification_slider_for_brightness">Kirkkaus</string>
+    <string name="notification_slider_for_rotation">Näytön kierto</string>
+    <string name="notification_slider_for_ringer">Hälyytys</string>
+    <string name="notification_slider_for_caffeine">Kofeiini</string>
+    <string name="notification_slider_mode_total_silence">Täysin äänetön</string>
+    <string name="notification_slider_mode_alarms_only">Vain hälytykset</string>
+    <string name="notification_slider_mode_priority_only">Vain tärkeät</string>
+    <string name="notification_slider_mode_none">Pois käytöstä</string>
+    <string name="notification_slider_flashlight_off">Pois</string>
+    <string name="notification_slider_flashlight_on">Käytössä</string>
+    <string name="notification_slider_flashlight_blink">Vilkuta</string>
+    <string name="notification_slider_brightness_auto">Autom.</string>
+    <string name="notification_slider_brightness_brightest">Kirkkain</string>
+    <string name="notification_slider_brightness_darkest">Tummin</string>
+    <string name="notification_slider_rotation_auto">Autom.</string>
+    <string name="notification_slider_rotation_portrait">Muotokuva</string>
+    <string name="notification_slider_rotation_landscape_90">Vaakakuva (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Vaakakuva (270°)</string>
+    <string name="notification_slider_ringer_normal">Normaali</string>
+    <string name="notification_slider_ringer_vibrate">Värinä</string>
+    <string name="notification_slider_ringer_silent">Äänetön</string>
+    <string name="notification_slider_caffeine_off">Pois</string>
 </resources>

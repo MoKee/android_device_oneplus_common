@@ -16,35 +16,35 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Панел за нотификации</string>
-  <string name="notification_slider_selection_dialog_title">Действие</string>
-  <string name="notification_slider_top_position">Най-горна позиция</string>
-  <string name="notification_slider_middle_position">Средна позиция</string>
-  <string name="notification_slider_bottom_position">Най-ниска позиция</string>
-  <string name="notification_slider_usage_title">Използвайте плъзгача за</string>
-  <string name="notification_slider_for_notification">Известия</string>
-  <string name="notification_slider_for_flashlight">Фенерче</string>
-  <string name="notification_slider_for_brightness">Ярко</string>
-  <string name="notification_slider_for_rotation">Завъртане</string>
-  <string name="notification_slider_for_ringer">Звънец</string>
-  <string name="notification_slider_for_caffeine">Кофеин</string>
-  <string name="notification_slider_mode_total_silence">Пълна тишина</string>
-  <string name="notification_slider_mode_alarms_only">Само будилници</string>
-  <string name="notification_slider_mode_priority_only">Само с приоритед</string>
-  <string name="notification_slider_mode_none">Без</string>
-  <string name="notification_slider_flashlight_off">Изкл</string>
-  <string name="notification_slider_flashlight_on">Включено</string>
-  <string name="notification_slider_flashlight_blink">Премигване</string>
-  <string name="notification_slider_brightness_auto">Авт.</string>
-  <string name="notification_slider_brightness_brightest">Най-ярко</string>
-  <string name="notification_slider_brightness_darkest">Най-тъмно</string>
-  <string name="notification_slider_rotation_auto">Авт.</string>
-  <string name="notification_slider_rotation_portrait">Портрет</string>
-  <string name="notification_slider_rotation_landscape_90">Пейзаж (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Пейзаж (270°)</string>
-  <string name="notification_slider_ringer_normal">Нормално</string>
-  <string name="notification_slider_ringer_vibrate">Вибрация</string>
-  <string name="notification_slider_ringer_silent">Безшумно</string>
-  <string name="notification_slider_caffeine_off">Изкл</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Панел за нотификации</string>
+    <string name="notification_slider_selection_dialog_title">Действие</string>
+    <string name="notification_slider_top_position">Най-горна позиция</string>
+    <string name="notification_slider_middle_position">Средна позиция</string>
+    <string name="notification_slider_bottom_position">Най-ниска позиция</string>
+    <string name="notification_slider_usage_title">Използвайте плъзгача за</string>
+    <string name="notification_slider_for_notification">Известия</string>
+    <string name="notification_slider_for_flashlight">Фенерче</string>
+    <string name="notification_slider_for_brightness">Ярко</string>
+    <string name="notification_slider_for_rotation">Завъртане</string>
+    <string name="notification_slider_for_ringer">Звънец</string>
+    <string name="notification_slider_for_caffeine">Кофеин</string>
+    <string name="notification_slider_mode_total_silence">Пълна тишина</string>
+    <string name="notification_slider_mode_alarms_only">Само будилници</string>
+    <string name="notification_slider_mode_priority_only">Само с приоритед</string>
+    <string name="notification_slider_mode_none">Без</string>
+    <string name="notification_slider_flashlight_off">Изкл</string>
+    <string name="notification_slider_flashlight_on">Включено</string>
+    <string name="notification_slider_flashlight_blink">Премигване</string>
+    <string name="notification_slider_brightness_auto">Авт.</string>
+    <string name="notification_slider_brightness_brightest">Най-ярко</string>
+    <string name="notification_slider_brightness_darkest">Най-тъмно</string>
+    <string name="notification_slider_rotation_auto">Авт.</string>
+    <string name="notification_slider_rotation_portrait">Портрет</string>
+    <string name="notification_slider_rotation_landscape_90">Пейзаж (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Пейзаж (270°)</string>
+    <string name="notification_slider_ringer_normal">Нормално</string>
+    <string name="notification_slider_ringer_vibrate">Вибрация</string>
+    <string name="notification_slider_ringer_silent">Безшумно</string>
+    <string name="notification_slider_caffeine_off">Изкл</string>
 </resources>

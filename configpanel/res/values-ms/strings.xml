@@ -16,22 +16,22 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Aksi</string>
-  <string name="notification_slider_usage_title">Gunnakan slider untuk</string>
-  <string name="notification_slider_for_flashlight">Lampu suluh</string>
-  <string name="notification_slider_for_brightness">Kecerahan</string>
-  <string name="notification_slider_for_rotation">Putaran</string>
-  <string name="notification_slider_for_ringer">Deringan</string>
-  <string name="notification_slider_for_caffeine">Kafein</string>
-  <string name="notification_slider_mode_none">Semua</string>
-  <string name="notification_slider_flashlight_off">Dimatikan</string>
-  <string name="notification_slider_flashlight_on">Hidupkan</string>
-  <string name="notification_slider_flashlight_blink">Berkelip</string>
-  <string name="notification_slider_brightness_brightest">Paling terang</string>
-  <string name="notification_slider_brightness_darkest">Paling gelap</string>
-  <string name="notification_slider_rotation_landscape_90">Landskap(90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Landskap(270°)</string>
-  <string name="notification_slider_ringer_silent">Senyap</string>
-  <string name="notification_slider_caffeine_off">Dimatikan</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Aksi</string>
+    <string name="notification_slider_usage_title">Gunnakan slider untuk</string>
+    <string name="notification_slider_for_flashlight">Lampu suluh</string>
+    <string name="notification_slider_for_brightness">Kecerahan</string>
+    <string name="notification_slider_for_rotation">Putaran</string>
+    <string name="notification_slider_for_ringer">Deringan</string>
+    <string name="notification_slider_for_caffeine">Kafein</string>
+    <string name="notification_slider_mode_none">Semua</string>
+    <string name="notification_slider_flashlight_off">Dimatikan</string>
+    <string name="notification_slider_flashlight_on">Hidupkan</string>
+    <string name="notification_slider_flashlight_blink">Berkelip</string>
+    <string name="notification_slider_brightness_brightest">Paling terang</string>
+    <string name="notification_slider_brightness_darkest">Paling gelap</string>
+    <string name="notification_slider_rotation_landscape_90">Landskap(90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Landskap(270°)</string>
+    <string name="notification_slider_ringer_silent">Senyap</string>
+    <string name="notification_slider_caffeine_off">Dimatikan</string>
 </resources>

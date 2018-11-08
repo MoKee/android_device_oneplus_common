@@ -16,29 +16,30 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Jakinarazpenen tiradera</string>
-  <string name="notification_slider_selection_dialog_title">Ekintza</string>
-  <string name="notification_slider_top_position">Goian</string>
-  <string name="notification_slider_middle_position">Erdian</string>
-  <string name="notification_slider_bottom_position">Behean</string>
-  <string name="notification_slider_usage_title">Erabil leiho lerragarria</string>
-  <string name="notification_slider_for_notification">Jakinarazpena</string>
-  <string name="notification_slider_for_flashlight">Flasha</string>
-  <string name="notification_slider_for_brightness">Distira</string>
-  <string name="notification_slider_for_rotation">Biraketa</string>
-  <string name="notification_slider_for_ringer">Tirrintak</string>
-  <string name="notification_slider_mode_total_silence">Isiltasun osoa</string>
-  <string name="notification_slider_mode_alarms_only">Alarmak besterik ez</string>
-  <string name="notification_slider_mode_priority_only">Lehentasunezkoak besterik ez</string>
-  <string name="notification_slider_mode_none">Bat ere ez</string>
-  <string name="notification_slider_flashlight_blink">Kliskaria</string>
-  <string name="notification_slider_brightness_brightest">Argi</string>
-  <string name="notification_slider_brightness_darkest">Ilun</string>
-  <string name="notification_slider_rotation_portrait">Erretratua</string>
-  <string name="notification_slider_rotation_landscape_90">Pasaia (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Pasaia (270°)</string>
-  <string name="notification_slider_ringer_normal">Arrunta</string>
-  <string name="notification_slider_ringer_vibrate">Bibratu</string>
-  <string name="notification_slider_ringer_silent">Isilik</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Jakinarazpenen tiradera</string>
+    <string name="notification_slider_selection_dialog_title">Ekintza</string>
+    <string name="notification_slider_top_position">Goian</string>
+    <string name="notification_slider_middle_position">Erdian</string>
+    <string name="notification_slider_bottom_position">Behean</string>
+    <string name="notification_slider_usage_title">Erabil leiho lerragarria</string>
+    <string name="notification_slider_for_notification">Jakinarazpena</string>
+    <string name="notification_slider_for_flashlight">Flasha</string>
+    <string name="notification_slider_for_brightness">Distira</string>
+    <string name="notification_slider_for_rotation">Biraketa</string>
+    <string name="notification_slider_for_ringer">Tirrintak</string>
+    <string name="notification_slider_for_caffeine">Kafeina</string>
+    <string name="notification_slider_mode_total_silence">Isiltasun osoa</string>
+    <string name="notification_slider_mode_alarms_only">Alarmak besterik ez</string>
+    <string name="notification_slider_mode_priority_only">Lehentasunezkoak besterik ez</string>
+    <string name="notification_slider_mode_none">Bat ere ez</string>
+    <string name="notification_slider_flashlight_blink">Kliskaria</string>
+    <string name="notification_slider_brightness_brightest">Argi</string>
+    <string name="notification_slider_brightness_darkest">Ilun</string>
+    <string name="notification_slider_rotation_portrait">Erretratua</string>
+    <string name="notification_slider_rotation_landscape_90">Pasaia (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Pasaia (270°)</string>
+    <string name="notification_slider_ringer_normal">Arrunta</string>
+    <string name="notification_slider_ringer_vibrate">Bibratu</string>
+    <string name="notification_slider_ringer_silent">Isilik</string>
 </resources>

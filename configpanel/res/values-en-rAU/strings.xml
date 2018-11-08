@@ -16,18 +16,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_usage_title">Use slider for</string>
-  <string name="notification_slider_for_flashlight">flash</string>
-  <string name="notification_slider_for_rotation">Rotation</string>
-  <string name="notification_slider_for_ringer">Ringer</string>
-  <string name="notification_slider_mode_none">None</string>
-  <string name="notification_slider_flashlight_off">Off</string>
-  <string name="notification_slider_flashlight_blink">Blink</string>
-  <string name="notification_slider_brightness_brightest">Brightest</string>
-  <string name="notification_slider_brightness_darkest">Darkest</string>
-  <string name="notification_slider_rotation_landscape_90">Landscape (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Landscape (270°)</string>
-  <string name="notification_slider_ringer_silent">Silent</string>
-  <string name="notification_slider_caffeine_off">Off</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_usage_title">Use slider for</string>
+    <string name="notification_slider_for_flashlight">flash</string>
+    <string name="notification_slider_for_rotation">Rotation</string>
+    <string name="notification_slider_for_ringer">Ringer</string>
+    <string name="notification_slider_mode_none">None</string>
+    <string name="notification_slider_flashlight_off">Off</string>
+    <string name="notification_slider_flashlight_blink">Blink</string>
+    <string name="notification_slider_brightness_brightest">Brightest</string>
+    <string name="notification_slider_brightness_darkest">Darkest</string>
+    <string name="notification_slider_rotation_landscape_90">Landscape (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Landscape (270°)</string>
+    <string name="notification_slider_ringer_silent">Silent</string>
+    <string name="notification_slider_caffeine_off">Off</string>
 </resources>

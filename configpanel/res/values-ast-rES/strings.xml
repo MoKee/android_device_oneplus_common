@@ -16,16 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Barra eslizante d\'avisos</string>
-  <string name="notification_slider_selection_dialog_title">Aición</string>
-  <string name="notification_slider_top_position">Posición cimera</string>
-  <string name="notification_slider_middle_position">Posición central</string>
-  <string name="notification_slider_bottom_position">Posición baxera</string>
-  <string name="notification_slider_for_brightness">Brilléu</string>
-  <string name="notification_slider_mode_total_silence">Silenciu total</string>
-  <string name="notification_slider_mode_alarms_only">Namái alarmes</string>
-  <string name="notification_slider_mode_priority_only">Namái prioridá</string>
-  <string name="notification_slider_mode_none">Nenguna</string>
-  <string name="notification_slider_ringer_vibrate">Vibrar</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Barra eslizante d\'avisos</string>
+    <string name="notification_slider_selection_dialog_title">Aición</string>
+    <string name="notification_slider_top_position">Posición cimera</string>
+    <string name="notification_slider_middle_position">Posición central</string>
+    <string name="notification_slider_bottom_position">Posición baxera</string>
+    <string name="notification_slider_for_brightness">Brilléu</string>
+    <string name="notification_slider_for_caffeine">Cafeína</string>
+    <string name="notification_slider_mode_total_silence">Silenciu total</string>
+    <string name="notification_slider_mode_alarms_only">Namái alarmes</string>
+    <string name="notification_slider_mode_priority_only">Namái prioridá</string>
+    <string name="notification_slider_mode_none">Nenguna</string>
+    <string name="notification_slider_ringer_vibrate">Vibrar</string>
 </resources>

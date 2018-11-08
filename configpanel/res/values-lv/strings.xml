@@ -16,19 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Kustība</string>
-  <string name="notification_slider_for_flashlight">Lukturis</string>
-  <string name="notification_slider_for_brightness">Spilgtums</string>
-  <string name="notification_slider_for_rotation">Rotācija</string>
-  <string name="notification_slider_for_caffeine">Kofeīns</string>
-  <string name="notification_slider_flashlight_on">Ieslēgts</string>
-  <string name="notification_slider_flashlight_blink">Mirgot</string>
-  <string name="notification_slider_brightness_auto">Automātiski</string>
-  <string name="notification_slider_brightness_brightest">Gaišākais</string>
-  <string name="notification_slider_brightness_darkest">Tumšākais</string>
-  <string name="notification_slider_rotation_auto">Automātiski</string>
-  <string name="notification_slider_rotation_landscape_90">Ainava (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Ainava (270°)</string>
-  <string name="notification_slider_ringer_vibrate">Vibrēt</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Kustība</string>
+    <string name="notification_slider_for_flashlight">Lukturis</string>
+    <string name="notification_slider_for_brightness">Spilgtums</string>
+    <string name="notification_slider_for_rotation">Rotācija</string>
+    <string name="notification_slider_for_caffeine">Kofeīns</string>
+    <string name="notification_slider_flashlight_on">Ieslēgts</string>
+    <string name="notification_slider_flashlight_blink">Mirgot</string>
+    <string name="notification_slider_brightness_auto">Automātiski</string>
+    <string name="notification_slider_brightness_brightest">Gaišākais</string>
+    <string name="notification_slider_brightness_darkest">Tumšākais</string>
+    <string name="notification_slider_rotation_auto">Automātiski</string>
+    <string name="notification_slider_rotation_landscape_90">Ainava (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Ainava (270°)</string>
+    <string name="notification_slider_ringer_vibrate">Vibrēt</string>
 </resources>

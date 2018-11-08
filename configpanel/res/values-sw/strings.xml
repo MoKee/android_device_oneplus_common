@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Kitendo</string>
-  <string name="notification_slider_for_brightness">Ung\'avu</string>
-  <string name="notification_slider_flashlight_on">Imewashwa</string>
-  <string name="notification_slider_brightness_auto">Kiotomatiki</string>
-  <string name="notification_slider_rotation_auto">Kiotomatiki</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Kitendo</string>
+    <string name="notification_slider_for_brightness">Ung\'avu</string>
+    <string name="notification_slider_flashlight_on">Imewashwa</string>
+    <string name="notification_slider_brightness_auto">Kiotomatiki</string>
+    <string name="notification_slider_rotation_auto">Kiotomatiki</string>
 </resources>

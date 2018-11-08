@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Գործողություն</string>
-  <string name="notification_slider_for_brightness">Պայծառություն</string>
-  <string name="notification_slider_flashlight_on">Միացված է</string>
-  <string name="notification_slider_brightness_auto">Ինքնուրույն</string>
-  <string name="notification_slider_rotation_auto">Ինքնուրույն</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Գործողություն</string>
+    <string name="notification_slider_for_brightness">Պայծառություն</string>
+    <string name="notification_slider_flashlight_on">Միացված է</string>
+    <string name="notification_slider_brightness_auto">Ինքնուրույն</string>
+    <string name="notification_slider_rotation_auto">Ինքնուրույն</string>
 </resources>

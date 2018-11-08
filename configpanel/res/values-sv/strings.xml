@@ -16,26 +16,26 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Åtgärd</string>
-  <string name="notification_slider_for_flashlight">Ficklampa</string>
-  <string name="notification_slider_for_brightness">Ljusstyrka</string>
-  <string name="notification_slider_for_caffeine">Koffein</string>
-  <string name="notification_slider_mode_total_silence">Helt tyst</string>
-  <string name="notification_slider_mode_alarms_only">Endast alarm</string>
-  <string name="notification_slider_mode_priority_only">Endast prioriterat</string>
-  <string name="notification_slider_mode_none">Ingen</string>
-  <string name="notification_slider_flashlight_off">Av</string>
-  <string name="notification_slider_flashlight_on">Aktiverad</string>
-  <string name="notification_slider_brightness_auto">Auto</string>
-  <string name="notification_slider_rotation_auto">Auto</string>
-  <string name="notification_slider_rotation_portrait">Porträtt</string>
-  <string name="notification_slider_ringer_normal">Normal</string>
-  <string name="notification_slider_ringer_vibrate">Vibrera</string>
-  <string name="notification_slider_ringer_silent">Ljudlös</string>
-  <string name="notification_slider_caffeine_off">Av</string>
-  <string name="notification_slider_caffeine_5min">5 min</string>
-  <string name="notification_slider_caffeine_10min">10 min</string>
-  <string name="notification_slider_caffeine_30min">30 min</string>
-  <string name="notification_slider_caffeine_infinity">För evigt</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Åtgärd</string>
+    <string name="notification_slider_for_flashlight">Ficklampa</string>
+    <string name="notification_slider_for_brightness">Ljusstyrka</string>
+    <string name="notification_slider_for_caffeine">Koffein</string>
+    <string name="notification_slider_mode_total_silence">Helt tyst</string>
+    <string name="notification_slider_mode_alarms_only">Endast alarm</string>
+    <string name="notification_slider_mode_priority_only">Endast prioriterat</string>
+    <string name="notification_slider_mode_none">Ingen</string>
+    <string name="notification_slider_flashlight_off">Av</string>
+    <string name="notification_slider_flashlight_on">Aktiverad</string>
+    <string name="notification_slider_brightness_auto">Auto</string>
+    <string name="notification_slider_rotation_auto">Auto</string>
+    <string name="notification_slider_rotation_portrait">Porträtt</string>
+    <string name="notification_slider_ringer_normal">Normal</string>
+    <string name="notification_slider_ringer_vibrate">Vibrera</string>
+    <string name="notification_slider_ringer_silent">Ljudlös</string>
+    <string name="notification_slider_caffeine_off">Av</string>
+    <string name="notification_slider_caffeine_5min">5 min</string>
+    <string name="notification_slider_caffeine_10min">10 min</string>
+    <string name="notification_slider_caffeine_30min">30 min</string>
+    <string name="notification_slider_caffeine_infinity">För evigt</string>
 </resources>

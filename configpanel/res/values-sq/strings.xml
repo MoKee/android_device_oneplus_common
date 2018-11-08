@@ -16,19 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Kursori i njoftimeve</string>
-  <string name="notification_slider_selection_dialog_title">Veprimi</string>
-  <string name="notification_slider_top_position">Lart</string>
-  <string name="notification_slider_middle_position">Në mes</string>
-  <string name="notification_slider_bottom_position">Poshtë</string>
-  <string name="notification_slider_for_brightness">Ndriçimi</string>
-  <string name="notification_slider_for_caffeine">Kafeina</string>
-  <string name="notification_slider_mode_total_silence">Heshtje e plotë</string>
-  <string name="notification_slider_mode_alarms_only">Vetëm alarmet</string>
-  <string name="notification_slider_mode_priority_only">Vetëm kryesoret</string>
-  <string name="notification_slider_mode_none">Asnjë</string>
-  <string name="notification_slider_rotation_portrait">Portret</string>
-  <string name="notification_slider_ringer_normal">Normale</string>
-  <string name="notification_slider_ringer_vibrate">Dridhu</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Kursori i njoftimeve</string>
+    <string name="notification_slider_selection_dialog_title">Veprimi</string>
+    <string name="notification_slider_top_position">Lart</string>
+    <string name="notification_slider_middle_position">Në mes</string>
+    <string name="notification_slider_bottom_position">Poshtë</string>
+    <string name="notification_slider_for_brightness">Ndriçimi</string>
+    <string name="notification_slider_for_caffeine">Kafeina</string>
+    <string name="notification_slider_mode_total_silence">Heshtje e plotë</string>
+    <string name="notification_slider_mode_alarms_only">Vetëm alarmet</string>
+    <string name="notification_slider_mode_priority_only">Vetëm kryesoret</string>
+    <string name="notification_slider_mode_none">Asnjë</string>
+    <string name="notification_slider_rotation_portrait">Portret</string>
+    <string name="notification_slider_ringer_normal">Normale</string>
+    <string name="notification_slider_ringer_vibrate">Dridhu</string>
 </resources>

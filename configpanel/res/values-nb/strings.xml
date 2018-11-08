@@ -16,21 +16,22 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Varselskuff</string>
-  <string name="notification_slider_selection_dialog_title">Handling</string>
-  <string name="notification_slider_top_position">Topplassering</string>
-  <string name="notification_slider_middle_position">Midtplassering</string>
-  <string name="notification_slider_bottom_position">Bunnplassering</string>
-  <string name="notification_slider_for_brightness">Lysstyrke</string>
-  <string name="notification_slider_mode_total_silence">Total stillhet</string>
-  <string name="notification_slider_mode_alarms_only">Bare alarmer</string>
-  <string name="notification_slider_mode_priority_only">Bare prioritert</string>
-  <string name="notification_slider_mode_none">Ingen</string>
-  <string name="notification_slider_flashlight_off">Av</string>
-  <string name="notification_slider_flashlight_on">På</string>
-  <string name="notification_slider_rotation_portrait">Portrett</string>
-  <string name="notification_slider_ringer_vibrate">Vibrer</string>
-  <string name="notification_slider_ringer_silent">Stille</string>
-  <string name="notification_slider_caffeine_off">Av</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Varselskuff</string>
+    <string name="notification_slider_selection_dialog_title">Handling</string>
+    <string name="notification_slider_top_position">Topplassering</string>
+    <string name="notification_slider_middle_position">Midtplassering</string>
+    <string name="notification_slider_bottom_position">Bunnplassering</string>
+    <string name="notification_slider_for_brightness">Lysstyrke</string>
+    <string name="notification_slider_for_caffeine">Koffein</string>
+    <string name="notification_slider_mode_total_silence">Total stillhet</string>
+    <string name="notification_slider_mode_alarms_only">Bare alarmer</string>
+    <string name="notification_slider_mode_priority_only">Bare prioritert</string>
+    <string name="notification_slider_mode_none">Ingen</string>
+    <string name="notification_slider_flashlight_off">Av</string>
+    <string name="notification_slider_flashlight_on">På</string>
+    <string name="notification_slider_rotation_portrait">Portrett</string>
+    <string name="notification_slider_ringer_vibrate">Vibrer</string>
+    <string name="notification_slider_ringer_silent">Stille</string>
+    <string name="notification_slider_caffeine_off">Av</string>
 </resources>

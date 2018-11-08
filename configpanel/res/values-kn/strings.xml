@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">ಚಟುವಟಿಕೆ</string>
-  <string name="notification_slider_usage_title">ಇದಕ್ಕಾಗಿ ಸ್ಲೈಡರ್ ಬಳಸಿ</string>
-  <string name="notification_slider_for_flashlight">ಮಿಂಚುಬೆಳಕು</string>
-  <string name="notification_slider_for_brightness">ಪ್ರಖರತೆ</string>
-  <string name="notification_slider_for_rotation">ಆವರ್ತನ</string>
-  <string name="notification_slider_for_ringer">ರಿಂಗರ್</string>
-  <string name="notification_slider_for_caffeine">ಕ್ಯಾಫೀನ್</string>
-  <string name="notification_slider_mode_none">ಎಲ್ಲ</string>
-  <string name="notification_slider_flashlight_off">ಆರಿಸು</string>
-  <string name="notification_slider_flashlight_on">ಆರಂಭಿಸು</string>
-  <string name="notification_slider_flashlight_blink">ಮಿನುಗು</string>
-  <string name="notification_slider_brightness_brightest">ಪ್ರಕಾಶಮಾನವಾದ</string>
-  <string name="notification_slider_brightness_darkest">ಕತ್ತಲುಮಯ</string>
-  <string name="notification_slider_rotation_portrait">ಅಂಚು ವಿನ್ಯಾಸ</string>
-  <string name="notification_slider_rotation_landscape_90">ಲ್ಯಾಂಡ್ ಸ್ಕೇಪ್ (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">ಲ್ಯಾಂಡ್ ಸ್ಕೇಪ್ (270°)</string>
-  <string name="notification_slider_ringer_normal">ಸಾಮಾನ್ಯ</string>
-  <string name="notification_slider_ringer_vibrate">ಕಂಪಿಸು</string>
-  <string name="notification_slider_ringer_silent">ನಿಶ್ಯಬ್ದ</string>
-  <string name="notification_slider_caffeine_off">ಆರಿಸು</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">ಚಟುವಟಿಕೆ</string>
+    <string name="notification_slider_usage_title">ಇದಕ್ಕಾಗಿ ಸ್ಲೈಡರ್ ಬಳಸಿ</string>
+    <string name="notification_slider_for_flashlight">ಮಿಂಚುಬೆಳಕು</string>
+    <string name="notification_slider_for_brightness">ಪ್ರಖರತೆ</string>
+    <string name="notification_slider_for_rotation">ಆವರ್ತನ</string>
+    <string name="notification_slider_for_ringer">ರಿಂಗರ್</string>
+    <string name="notification_slider_for_caffeine">ಕ್ಯಾಫೀನ್</string>
+    <string name="notification_slider_mode_none">ಎಲ್ಲ</string>
+    <string name="notification_slider_flashlight_off">ಆರಿಸು</string>
+    <string name="notification_slider_flashlight_on">ಆರಂಭಿಸು</string>
+    <string name="notification_slider_flashlight_blink">ಮಿನುಗು</string>
+    <string name="notification_slider_brightness_brightest">ಪ್ರಕಾಶಮಾನವಾದ</string>
+    <string name="notification_slider_brightness_darkest">ಕತ್ತಲುಮಯ</string>
+    <string name="notification_slider_rotation_portrait">ಅಂಚು ವಿನ್ಯಾಸ</string>
+    <string name="notification_slider_rotation_landscape_90">ಲ್ಯಾಂಡ್ ಸ್ಕೇಪ್ (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">ಲ್ಯಾಂಡ್ ಸ್ಕೇಪ್ (270°)</string>
+    <string name="notification_slider_ringer_normal">ಸಾಮಾನ್ಯ</string>
+    <string name="notification_slider_ringer_vibrate">ಕಂಪಿಸು</string>
+    <string name="notification_slider_ringer_silent">ನಿಶ್ಯಬ್ದ</string>
+    <string name="notification_slider_caffeine_off">ಆರಿಸು</string>
 </resources>

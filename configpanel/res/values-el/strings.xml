@@ -16,24 +16,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Ρυθμιστικό ειδοποιήσεων</string>
-  <string name="notification_slider_selection_dialog_title">Ενέργεια</string>
-  <string name="notification_slider_top_position">Πάνω θέση</string>
-  <string name="notification_slider_middle_position">Μεσαία θέση</string>
-  <string name="notification_slider_bottom_position">Κάτω θέση</string>
-  <string name="notification_slider_for_brightness">Φωτεινότητα</string>
-  <string name="notification_slider_mode_total_silence">Απόλυτη σίγαση</string>
-  <string name="notification_slider_mode_alarms_only">Μόνο ξυπνητήρια</string>
-  <string name="notification_slider_mode_priority_only">Μόνο προτεραιότητα</string>
-  <string name="notification_slider_mode_none">Καμία</string>
-  <string name="notification_slider_flashlight_off">ανενεργό</string>
-  <string name="notification_slider_flashlight_on">Ενεργοποιημ.</string>
-  <string name="notification_slider_brightness_auto">Αυτόματο</string>
-  <string name="notification_slider_rotation_auto">Αυτόματο</string>
-  <string name="notification_slider_rotation_portrait">Πορτραίτο</string>
-  <string name="notification_slider_ringer_normal">Κανονική</string>
-  <string name="notification_slider_ringer_vibrate">Δόνηση</string>
-  <string name="notification_slider_ringer_silent">Αθόρυβο</string>
-  <string name="notification_slider_caffeine_off">ανενεργό</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Ρυθμιστικό ειδοποιήσεων</string>
+    <string name="notification_slider_selection_dialog_title">Ενέργεια</string>
+    <string name="notification_slider_top_position">Πάνω θέση</string>
+    <string name="notification_slider_middle_position">Μεσαία θέση</string>
+    <string name="notification_slider_bottom_position">Κάτω θέση</string>
+    <string name="notification_slider_for_brightness">Φωτεινότητα</string>
+    <string name="notification_slider_for_caffeine">Καφεΐνη</string>
+    <string name="notification_slider_mode_total_silence">Απόλυτη σίγαση</string>
+    <string name="notification_slider_mode_alarms_only">Μόνο ξυπνητήρια</string>
+    <string name="notification_slider_mode_priority_only">Μόνο προτεραιότητα</string>
+    <string name="notification_slider_mode_none">Καμία</string>
+    <string name="notification_slider_flashlight_off">ανενεργό</string>
+    <string name="notification_slider_flashlight_on">Ενεργοποιημ.</string>
+    <string name="notification_slider_brightness_auto">Αυτόματο</string>
+    <string name="notification_slider_rotation_auto">Αυτόματο</string>
+    <string name="notification_slider_rotation_portrait">Πορτραίτο</string>
+    <string name="notification_slider_ringer_normal">Κανονική</string>
+    <string name="notification_slider_ringer_vibrate">Δόνηση</string>
+    <string name="notification_slider_ringer_silent">Αθόρυβο</string>
+    <string name="notification_slider_caffeine_off">ανενεργό</string>
 </resources>

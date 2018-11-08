@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Үйлдлүүд</string>
-  <string name="notification_slider_for_brightness">Тодролт</string>
-  <string name="notification_slider_flashlight_on">Идэвхтэй</string>
-  <string name="notification_slider_brightness_auto">Автомат</string>
-  <string name="notification_slider_rotation_auto">Автомат</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Үйлдлүүд</string>
+    <string name="notification_slider_for_brightness">Тодролт</string>
+    <string name="notification_slider_flashlight_on">Идэвхтэй</string>
+    <string name="notification_slider_brightness_auto">Автомат</string>
+    <string name="notification_slider_rotation_auto">Автомат</string>
 </resources>

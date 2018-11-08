@@ -16,10 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_for_brightness">തെളിച്ചം</string>
-  <string name="notification_slider_mode_none">എല്ലാം</string>
-  <string name="notification_slider_rotation_portrait">പോർട്രെയിറ്റ്</string>
-  <string name="notification_slider_ringer_normal">സാധാരണ</string>
-  <string name="notification_slider_ringer_vibrate">വൈബ്രേറ്റുചെയ്യുക</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_for_brightness">തെളിച്ചം</string>
+    <string name="notification_slider_for_caffeine">കഫീൻ</string>
+    <string name="notification_slider_mode_none">എല്ലാം</string>
+    <string name="notification_slider_rotation_portrait">പോർട്രെയിറ്റ്</string>
+    <string name="notification_slider_ringer_normal">സാധാരണ</string>
+    <string name="notification_slider_ringer_vibrate">വൈബ്രേറ്റുചെയ്യുക</string>
 </resources>

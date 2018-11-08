@@ -16,17 +16,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Deslizador de notificación</string>
-  <string name="notification_slider_selection_dialog_title">Acción</string>
-  <string name="notification_slider_top_position">Posición superior</string>
-  <string name="notification_slider_middle_position">Posición media</string>
-  <string name="notification_slider_bottom_position">Posición inferior</string>
-  <string name="notification_slider_for_brightness">Brillo</string>
-  <string name="notification_slider_mode_total_silence">Silencio total</string>
-  <string name="notification_slider_mode_alarms_only">Só alarmas</string>
-  <string name="notification_slider_mode_priority_only">Só prioridade</string>
-  <string name="notification_slider_mode_none">Ningún</string>
-  <string name="notification_slider_rotation_portrait">Retrato</string>
-  <string name="notification_slider_ringer_vibrate">Vibrar</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Deslizador de notificación</string>
+    <string name="notification_slider_selection_dialog_title">Acción</string>
+    <string name="notification_slider_top_position">Posición superior</string>
+    <string name="notification_slider_middle_position">Posición media</string>
+    <string name="notification_slider_bottom_position">Posición inferior</string>
+    <string name="notification_slider_for_brightness">Brillo</string>
+    <string name="notification_slider_for_caffeine">Cafeína</string>
+    <string name="notification_slider_mode_total_silence">Silencio total</string>
+    <string name="notification_slider_mode_alarms_only">Só alarmas</string>
+    <string name="notification_slider_mode_priority_only">Só prioridade</string>
+    <string name="notification_slider_mode_none">Ningún</string>
+    <string name="notification_slider_rotation_portrait">Retrato</string>
+    <string name="notification_slider_ringer_vibrate">Vibrar</string>
 </resources>

@@ -16,10 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_for_brightness">ప్రకాశం</string>
-  <string name="notification_slider_mode_none">అన్ని</string>
-  <string name="notification_slider_rotation_portrait">పటం</string>
-  <string name="notification_slider_ringer_normal">సాధారణం</string>
-  <string name="notification_slider_ringer_vibrate">వైబ్రేట్</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_for_brightness">ప్రకాశం</string>
+    <string name="notification_slider_for_caffeine">కాఫిన్</string>
+    <string name="notification_slider_mode_none">అన్ని</string>
+    <string name="notification_slider_rotation_portrait">పటం</string>
+    <string name="notification_slider_ringer_normal">సాధారణం</string>
+    <string name="notification_slider_ringer_vibrate">వైబ్రేట్</string>
 </resources>

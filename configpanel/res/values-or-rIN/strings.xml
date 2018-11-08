@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_rotation_portrait">ପୋରଟ୍ରେଇଟ୍</string>
-  <string name="notification_slider_ringer_normal">ସାଧାରଣ</string>
-  <string name="notification_slider_ringer_vibrate">କମ୍ପନ</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_rotation_portrait">ପୋରଟ୍ରେଇଟ୍</string>
+    <string name="notification_slider_ringer_normal">ସାଧାରଣ</string>
+    <string name="notification_slider_ringer_vibrate">କମ୍ପନ</string>
 </resources>

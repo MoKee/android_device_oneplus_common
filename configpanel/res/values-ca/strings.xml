@@ -16,33 +16,34 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Barra lliscant de notificacions</string>
-  <string name="notification_slider_selection_dialog_title">Acció</string>
-  <string name="notification_slider_top_position">Posició superior</string>
-  <string name="notification_slider_middle_position">Posició central</string>
-  <string name="notification_slider_bottom_position">Posició inferior</string>
-  <string name="notification_slider_usage_title">Utilitzar regulador</string>
-  <string name="notification_slider_for_notification">Notificació</string>
-  <string name="notification_slider_for_flashlight">Llanterna</string>
-  <string name="notification_slider_for_brightness">Brillantor</string>
-  <string name="notification_slider_for_rotation">Rotació</string>
-  <string name="notification_slider_for_ringer">Timbre</string>
-  <string name="notification_slider_mode_total_silence">Silenci total</string>
-  <string name="notification_slider_mode_alarms_only">Només alarmes</string>
-  <string name="notification_slider_mode_priority_only">Només prioritat</string>
-  <string name="notification_slider_mode_none">Cap</string>
-  <string name="notification_slider_flashlight_off">Desactivat</string>
-  <string name="notification_slider_flashlight_on">Activat</string>
-  <string name="notification_slider_flashlight_blink">Pipelleig</string>
-  <string name="notification_slider_brightness_auto">Automàtic</string>
-  <string name="notification_slider_brightness_brightest">Més clar</string>
-  <string name="notification_slider_brightness_darkest">Més fosc</string>
-  <string name="notification_slider_rotation_auto">Automàtic</string>
-  <string name="notification_slider_rotation_portrait">Retrat</string>
-  <string name="notification_slider_rotation_landscape_90">Paisatje (90º)</string>
-  <string name="notification_slider_rotation_landscape_270">Paisatje (270º)</string>
-  <string name="notification_slider_ringer_vibrate">Vibració</string>
-  <string name="notification_slider_ringer_silent">Silenci</string>
-  <string name="notification_slider_caffeine_off">Desactivat</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Barra lliscant de notificacions</string>
+    <string name="notification_slider_selection_dialog_title">Acció</string>
+    <string name="notification_slider_top_position">Posició superior</string>
+    <string name="notification_slider_middle_position">Posició central</string>
+    <string name="notification_slider_bottom_position">Posició inferior</string>
+    <string name="notification_slider_usage_title">Utilitzar regulador</string>
+    <string name="notification_slider_for_notification">Notificació</string>
+    <string name="notification_slider_for_flashlight">Llanterna</string>
+    <string name="notification_slider_for_brightness">Brillantor</string>
+    <string name="notification_slider_for_rotation">Rotació</string>
+    <string name="notification_slider_for_ringer">Timbre</string>
+    <string name="notification_slider_for_caffeine">Cafeïna</string>
+    <string name="notification_slider_mode_total_silence">Silenci total</string>
+    <string name="notification_slider_mode_alarms_only">Només alarmes</string>
+    <string name="notification_slider_mode_priority_only">Només prioritat</string>
+    <string name="notification_slider_mode_none">Cap</string>
+    <string name="notification_slider_flashlight_off">Desactivat</string>
+    <string name="notification_slider_flashlight_on">Activat</string>
+    <string name="notification_slider_flashlight_blink">Pipelleig</string>
+    <string name="notification_slider_brightness_auto">Automàtic</string>
+    <string name="notification_slider_brightness_brightest">Més clar</string>
+    <string name="notification_slider_brightness_darkest">Més fosc</string>
+    <string name="notification_slider_rotation_auto">Automàtic</string>
+    <string name="notification_slider_rotation_portrait">Retrat</string>
+    <string name="notification_slider_rotation_landscape_90">Paisatje (90º)</string>
+    <string name="notification_slider_rotation_landscape_270">Paisatje (270º)</string>
+    <string name="notification_slider_ringer_vibrate">Vibració</string>
+    <string name="notification_slider_ringer_silent">Silenci</string>
+    <string name="notification_slider_caffeine_off">Desactivat</string>
 </resources>

@@ -16,32 +16,32 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Botão deslizante de notificações</string>
-  <string name="notification_slider_selection_dialog_title">Ação</string>
-  <string name="notification_slider_top_position">Em cima</string>
-  <string name="notification_slider_middle_position">No meio</string>
-  <string name="notification_slider_bottom_position">Em baixo</string>
-  <string name="notification_slider_usage_title">Utilizar o slider para</string>
-  <string name="notification_slider_for_notification">Notificação</string>
-  <string name="notification_slider_for_flashlight">Lanterna</string>
-  <string name="notification_slider_for_brightness">Brilho</string>
-  <string name="notification_slider_for_rotation">Rotação</string>
-  <string name="notification_slider_for_ringer">Toque</string>
-  <string name="notification_slider_for_caffeine">Cafeína</string>
-  <string name="notification_slider_mode_total_silence">Silêncio total</string>
-  <string name="notification_slider_mode_alarms_only">Apenas alarmes</string>
-  <string name="notification_slider_mode_priority_only">Apenas prioridade</string>
-  <string name="notification_slider_mode_none">Nenhuma</string>
-  <string name="notification_slider_flashlight_on">Ativado</string>
-  <string name="notification_slider_flashlight_blink">Piscar</string>
-  <string name="notification_slider_brightness_auto">Automático</string>
-  <string name="notification_slider_brightness_brightest">Mais brilhante</string>
-  <string name="notification_slider_brightness_darkest">Mais escuro</string>
-  <string name="notification_slider_rotation_auto">Automático</string>
-  <string name="notification_slider_rotation_portrait">Retrato</string>
-  <string name="notification_slider_rotation_landscape_90">Modo paisagem (90º)</string>
-  <string name="notification_slider_rotation_landscape_270">Modo paisagem (270º)</string>
-  <string name="notification_slider_ringer_vibrate">Vibrar</string>
-  <string name="notification_slider_ringer_silent">Silêncio</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Botão deslizante de notificações</string>
+    <string name="notification_slider_selection_dialog_title">Ação</string>
+    <string name="notification_slider_top_position">Em cima</string>
+    <string name="notification_slider_middle_position">No meio</string>
+    <string name="notification_slider_bottom_position">Em baixo</string>
+    <string name="notification_slider_usage_title">Utilizar o slider para</string>
+    <string name="notification_slider_for_notification">Notificação</string>
+    <string name="notification_slider_for_flashlight">Lanterna</string>
+    <string name="notification_slider_for_brightness">Brilho</string>
+    <string name="notification_slider_for_rotation">Rotação</string>
+    <string name="notification_slider_for_ringer">Toque</string>
+    <string name="notification_slider_for_caffeine">Cafeína</string>
+    <string name="notification_slider_mode_total_silence">Silêncio total</string>
+    <string name="notification_slider_mode_alarms_only">Apenas alarmes</string>
+    <string name="notification_slider_mode_priority_only">Apenas prioridade</string>
+    <string name="notification_slider_mode_none">Nenhuma</string>
+    <string name="notification_slider_flashlight_on">Ativado</string>
+    <string name="notification_slider_flashlight_blink">Piscar</string>
+    <string name="notification_slider_brightness_auto">Automático</string>
+    <string name="notification_slider_brightness_brightest">Mais brilhante</string>
+    <string name="notification_slider_brightness_darkest">Mais escuro</string>
+    <string name="notification_slider_rotation_auto">Automático</string>
+    <string name="notification_slider_rotation_portrait">Retrato</string>
+    <string name="notification_slider_rotation_landscape_90">Modo paisagem (90º)</string>
+    <string name="notification_slider_rotation_landscape_270">Modo paisagem (270º)</string>
+    <string name="notification_slider_ringer_vibrate">Vibrar</string>
+    <string name="notification_slider_ringer_silent">Silêncio</string>
 </resources>

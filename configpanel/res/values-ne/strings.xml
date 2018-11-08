@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">कार्य</string>
-  <string name="notification_slider_for_brightness">चमक</string>
-  <string name="notification_slider_flashlight_on">खुला</string>
-  <string name="notification_slider_brightness_auto">स्वतः</string>
-  <string name="notification_slider_rotation_auto">स्वतः</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">कार्य</string>
+    <string name="notification_slider_for_brightness">चमक</string>
+    <string name="notification_slider_flashlight_on">खुला</string>
+    <string name="notification_slider_brightness_auto">स्वतः</string>
+    <string name="notification_slider_rotation_auto">स्वतः</string>
 </resources>

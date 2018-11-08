@@ -16,19 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_usage_title">জন্য স্লায়ডারটি ব্যবহার করুন</string>
-  <string name="notification_slider_for_flashlight">উজ্জল বাতি</string>
-  <string name="notification_slider_for_brightness">উজ্জ্বলতা</string>
-  <string name="notification_slider_for_rotation">চক্রাবর্ত</string>
-  <string name="notification_slider_for_ringer">শব্দ</string>
-  <string name="notification_slider_mode_none">সবগুলো</string>
-  <string name="notification_slider_flashlight_off">Off</string>
-  <string name="notification_slider_flashlight_blink">ঝিক্মিক্</string>
-  <string name="notification_slider_brightness_brightest">উজ্জল</string>
-  <string name="notification_slider_brightness_darkest">অন্ধকার</string>
-  <string name="notification_slider_rotation_landscape_90">ভূদৃশ্য (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">ভূদৃশ্য (270°)</string>
-  <string name="notification_slider_ringer_vibrate">কম্পন</string>
-  <string name="notification_slider_caffeine_off">Off</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_usage_title">জন্য স্লায়ডারটি ব্যবহার করুন</string>
+    <string name="notification_slider_for_flashlight">উজ্জল বাতি</string>
+    <string name="notification_slider_for_brightness">উজ্জ্বলতা</string>
+    <string name="notification_slider_for_rotation">চক্রাবর্ত</string>
+    <string name="notification_slider_for_ringer">শব্দ</string>
+    <string name="notification_slider_mode_none">সবগুলো</string>
+    <string name="notification_slider_flashlight_off">Off</string>
+    <string name="notification_slider_flashlight_blink">ঝিক্মিক্</string>
+    <string name="notification_slider_brightness_brightest">উজ্জল</string>
+    <string name="notification_slider_brightness_darkest">অন্ধকার</string>
+    <string name="notification_slider_rotation_landscape_90">ভূদৃশ্য (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">ভূদৃশ্য (270°)</string>
+    <string name="notification_slider_ringer_vibrate">কম্পন</string>
+    <string name="notification_slider_caffeine_off">Off</string>
 </resources>

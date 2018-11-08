@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">ແອັກຊັນ</string>
-  <string name="notification_slider_for_brightness">ຄວາມສະຫວ່າງ</string>
-  <string name="notification_slider_flashlight_on">ເປີດ</string>
-  <string name="notification_slider_brightness_auto">ອັດຕະໂນມັດ</string>
-  <string name="notification_slider_rotation_auto">ອັດຕະໂນມັດ</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">ແອັກຊັນ</string>
+    <string name="notification_slider_for_brightness">ຄວາມສະຫວ່າງ</string>
+    <string name="notification_slider_flashlight_on">ເປີດ</string>
+    <string name="notification_slider_brightness_auto">ອັດຕະໂນມັດ</string>
+    <string name="notification_slider_rotation_auto">ອັດຕະໂນມັດ</string>
 </resources>

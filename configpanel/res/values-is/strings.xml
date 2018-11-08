@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_for_brightness">Birtustig</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_for_brightness">Birtustig</string>
 </resources>

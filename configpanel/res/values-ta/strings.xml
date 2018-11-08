@@ -16,22 +16,23 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_usage_title">ஸ்லைடுகளைப் பயன்படுத்தவும்</string>
-  <string name="notification_slider_for_flashlight">ஃபிளாஷ்லைட்</string>
-  <string name="notification_slider_for_brightness">ஒளிர்வு</string>
-  <string name="notification_slider_for_rotation">சுழற்சி</string>
-  <string name="notification_slider_for_ringer">ஒலிப்பான்</string>
-  <string name="notification_slider_mode_none">அனைத்தும்</string>
-  <string name="notification_slider_flashlight_off">அணை</string>
-  <string name="notification_slider_flashlight_blink">இமை</string>
-  <string name="notification_slider_brightness_brightest">பிரகாசமான</string>
-  <string name="notification_slider_brightness_darkest">இருண்ட</string>
-  <string name="notification_slider_rotation_portrait">நிலைபதிப்பு</string>
-  <string name="notification_slider_rotation_landscape_90">நிலைபரப்பு (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">நிலைபரப்பு (270°)</string>
-  <string name="notification_slider_ringer_normal">இயல்பு</string>
-  <string name="notification_slider_ringer_vibrate">அதிர்வு</string>
-  <string name="notification_slider_ringer_silent">அமைதி</string>
-  <string name="notification_slider_caffeine_off">அணை</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_usage_title">ஸ்லைடுகளைப் பயன்படுத்தவும்</string>
+    <string name="notification_slider_for_flashlight">ஃபிளாஷ்லைட்</string>
+    <string name="notification_slider_for_brightness">ஒளிர்வு</string>
+    <string name="notification_slider_for_rotation">சுழற்சி</string>
+    <string name="notification_slider_for_ringer">ஒலிப்பான்</string>
+    <string name="notification_slider_for_caffeine">கேஃபைன்</string>
+    <string name="notification_slider_mode_none">அனைத்தும்</string>
+    <string name="notification_slider_flashlight_off">அணை</string>
+    <string name="notification_slider_flashlight_blink">இமை</string>
+    <string name="notification_slider_brightness_brightest">பிரகாசமான</string>
+    <string name="notification_slider_brightness_darkest">இருண்ட</string>
+    <string name="notification_slider_rotation_portrait">நிலைபதிப்பு</string>
+    <string name="notification_slider_rotation_landscape_90">நிலைபரப்பு (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">நிலைபரப்பு (270°)</string>
+    <string name="notification_slider_ringer_normal">இயல்பு</string>
+    <string name="notification_slider_ringer_vibrate">அதிர்வு</string>
+    <string name="notification_slider_ringer_silent">அமைதி</string>
+    <string name="notification_slider_caffeine_off">அணை</string>
 </resources>

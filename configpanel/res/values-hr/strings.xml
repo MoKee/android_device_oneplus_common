@@ -16,22 +16,23 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Klizač obavijesti</string>
-  <string name="notification_slider_selection_dialog_title">Radnja</string>
-  <string name="notification_slider_top_position">Na vrhu</string>
-  <string name="notification_slider_middle_position">U sredini</string>
-  <string name="notification_slider_bottom_position">Na dnu</string>
-  <string name="notification_slider_for_notification">Obavijest</string>
-  <string name="notification_slider_for_brightness">Svjetlina</string>
-  <string name="notification_slider_mode_total_silence">Potpuna tišina</string>
-  <string name="notification_slider_mode_alarms_only">Samo alarmi</string>
-  <string name="notification_slider_mode_priority_only">Samo prioriteti</string>
-  <string name="notification_slider_mode_none">Ništa</string>
-  <string name="notification_slider_flashlight_on">Uključeno</string>
-  <string name="notification_slider_brightness_auto">Automatski</string>
-  <string name="notification_slider_rotation_auto">Automatski</string>
-  <string name="notification_slider_rotation_portrait">Portret</string>
-  <string name="notification_slider_ringer_normal">Normalan</string>
-  <string name="notification_slider_ringer_vibrate">Vibracija</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Klizač obavijesti</string>
+    <string name="notification_slider_selection_dialog_title">Radnja</string>
+    <string name="notification_slider_top_position">Na vrhu</string>
+    <string name="notification_slider_middle_position">U sredini</string>
+    <string name="notification_slider_bottom_position">Na dnu</string>
+    <string name="notification_slider_for_notification">Obavijest</string>
+    <string name="notification_slider_for_brightness">Svjetlina</string>
+    <string name="notification_slider_for_caffeine">Kofein</string>
+    <string name="notification_slider_mode_total_silence">Potpuna tišina</string>
+    <string name="notification_slider_mode_alarms_only">Samo alarmi</string>
+    <string name="notification_slider_mode_priority_only">Samo prioriteti</string>
+    <string name="notification_slider_mode_none">Ništa</string>
+    <string name="notification_slider_flashlight_on">Uključeno</string>
+    <string name="notification_slider_brightness_auto">Automatski</string>
+    <string name="notification_slider_rotation_auto">Automatski</string>
+    <string name="notification_slider_rotation_portrait">Portret</string>
+    <string name="notification_slider_ringer_normal">Normalan</string>
+    <string name="notification_slider_ringer_vibrate">Vibracija</string>
 </resources>

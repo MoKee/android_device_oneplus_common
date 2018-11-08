@@ -16,14 +16,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">مەشغۇلات</string>
-  <string name="notification_slider_for_brightness">يورۇقلۇق</string>
-  <string name="notification_slider_mode_none">ھەممىنى تاللاش</string>
-  <string name="notification_slider_flashlight_on">ئوچۇق</string>
-  <string name="notification_slider_brightness_auto">ئاپتوماتىك</string>
-  <string name="notification_slider_rotation_auto">ئاپتوماتىك</string>
-  <string name="notification_slider_rotation_portrait">سۈرەت</string>
-  <string name="notification_slider_ringer_normal">نورمال</string>
-  <string name="notification_slider_ringer_vibrate">تىترەت</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">مەشغۇلات</string>
+    <string name="notification_slider_for_brightness">يورۇقلۇق</string>
+    <string name="notification_slider_for_caffeine">قەھۋەخانە ھالىتى</string>
+    <string name="notification_slider_mode_none">ھەممىنى تاللاش</string>
+    <string name="notification_slider_flashlight_on">ئوچۇق</string>
+    <string name="notification_slider_brightness_auto">ئاپتوماتىك</string>
+    <string name="notification_slider_rotation_auto">ئاپتوماتىك</string>
+    <string name="notification_slider_rotation_portrait">سۈرەت</string>
+    <string name="notification_slider_ringer_normal">نورمال</string>
+    <string name="notification_slider_ringer_vibrate">تىترەت</string>
 </resources>

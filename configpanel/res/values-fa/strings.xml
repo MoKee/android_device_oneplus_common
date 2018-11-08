@@ -16,18 +16,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">عملکرد</string>
-  <string name="notification_slider_usage_title">استفاده از اسلایدر برای</string>
-  <string name="notification_slider_for_flashlight">چراغ‌قوه</string>
-  <string name="notification_slider_for_brightness">روشنایی</string>
-  <string name="notification_slider_for_rotation">چرخش</string>
-  <string name="notification_slider_for_ringer">صدای زنگ</string>
-  <string name="notification_slider_mode_none">همه</string>
-  <string name="notification_slider_flashlight_on">فعال</string>
-  <string name="notification_slider_brightness_auto">خودکار</string>
-  <string name="notification_slider_brightness_brightest">روشن تر</string>
-  <string name="notification_slider_brightness_darkest">تیره تر</string>
-  <string name="notification_slider_rotation_auto">خودکار</string>
-  <string name="notification_slider_ringer_vibrate">لرزش</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">عملکرد</string>
+    <string name="notification_slider_usage_title">استفاده از اسلایدر برای</string>
+    <string name="notification_slider_for_flashlight">چراغ‌قوه</string>
+    <string name="notification_slider_for_brightness">روشنایی</string>
+    <string name="notification_slider_for_rotation">چرخش</string>
+    <string name="notification_slider_for_ringer">صدای زنگ</string>
+    <string name="notification_slider_mode_none">همه</string>
+    <string name="notification_slider_flashlight_on">فعال</string>
+    <string name="notification_slider_brightness_auto">خودکار</string>
+    <string name="notification_slider_brightness_brightest">روشن تر</string>
+    <string name="notification_slider_brightness_darkest">تیره تر</string>
+    <string name="notification_slider_rotation_auto">خودکار</string>
+    <string name="notification_slider_ringer_vibrate">لرزش</string>
 </resources>

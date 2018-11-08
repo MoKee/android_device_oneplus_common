@@ -16,9 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_for_brightness">તેજ</string>
-  <string name="notification_slider_rotation_portrait">પોર્ટરેટ</string>
-  <string name="notification_slider_ringer_normal">સામાન્ય</string>
-  <string name="notification_slider_ringer_vibrate">વાઇબ્રેટ</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_for_brightness">તેજ</string>
+    <string name="notification_slider_for_caffeine">કેફીન</string>
+    <string name="notification_slider_rotation_portrait">પોર્ટરેટ</string>
+    <string name="notification_slider_ringer_normal">સામાન્ય</string>
+    <string name="notification_slider_ringer_vibrate">વાઇબ્રેટ</string>
 </resources>

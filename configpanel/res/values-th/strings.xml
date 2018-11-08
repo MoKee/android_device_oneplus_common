@@ -16,21 +16,22 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">ตัวเลื่อนการแจ้งเตือน</string>
-  <string name="notification_slider_selection_dialog_title">การทำงาน</string>
-  <string name="notification_slider_top_position">ตำแหน่งบนสุด</string>
-  <string name="notification_slider_middle_position">ตำแหน่งกึ่งกลาง</string>
-  <string name="notification_slider_bottom_position">ตำแหน่งล่างสุด</string>
-  <string name="notification_slider_for_brightness">ความสว่าง</string>
-  <string name="notification_slider_mode_total_silence">ความเงียบรวม</string>
-  <string name="notification_slider_mode_alarms_only">เฉพาะการแจ้งเตือน</string>
-  <string name="notification_slider_mode_priority_only">เฉพาะระดับความสำคัญ</string>
-  <string name="notification_slider_mode_none">ไม่มี</string>
-  <string name="notification_slider_flashlight_on">เปิด</string>
-  <string name="notification_slider_brightness_auto">อัตโนมัติ</string>
-  <string name="notification_slider_rotation_auto">อัตโนมัติ</string>
-  <string name="notification_slider_rotation_portrait">ภาพบุคคล</string>
-  <string name="notification_slider_ringer_normal">ปกติ</string>
-  <string name="notification_slider_ringer_vibrate">สั่น</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">ตัวเลื่อนการแจ้งเตือน</string>
+    <string name="notification_slider_selection_dialog_title">การทำงาน</string>
+    <string name="notification_slider_top_position">ตำแหน่งบนสุด</string>
+    <string name="notification_slider_middle_position">ตำแหน่งกึ่งกลาง</string>
+    <string name="notification_slider_bottom_position">ตำแหน่งล่างสุด</string>
+    <string name="notification_slider_for_brightness">ความสว่าง</string>
+    <string name="notification_slider_for_caffeine">คาเฟอีน</string>
+    <string name="notification_slider_mode_total_silence">ความเงียบรวม</string>
+    <string name="notification_slider_mode_alarms_only">เฉพาะการแจ้งเตือน</string>
+    <string name="notification_slider_mode_priority_only">เฉพาะระดับความสำคัญ</string>
+    <string name="notification_slider_mode_none">ไม่มี</string>
+    <string name="notification_slider_flashlight_on">เปิด</string>
+    <string name="notification_slider_brightness_auto">อัตโนมัติ</string>
+    <string name="notification_slider_rotation_auto">อัตโนมัติ</string>
+    <string name="notification_slider_rotation_portrait">ภาพบุคคล</string>
+    <string name="notification_slider_ringer_normal">ปกติ</string>
+    <string name="notification_slider_ringer_vibrate">สั่น</string>
 </resources>

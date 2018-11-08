@@ -16,13 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Fəaliyyət</string>
-  <string name="notification_slider_for_brightness">Parlaqlıq</string>
-  <string name="notification_slider_mode_none">Hamısı</string>
-  <string name="notification_slider_flashlight_on">Aktiv</string>
-  <string name="notification_slider_brightness_auto">Avto</string>
-  <string name="notification_slider_rotation_auto">Avto</string>
-  <string name="notification_slider_ringer_vibrate">Titrəmə</string>
-  <string name="notification_slider_ringer_silent">Səssiz</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Fəaliyyət</string>
+    <string name="notification_slider_for_brightness">Parlaqlıq</string>
+    <string name="notification_slider_mode_none">Hamısı</string>
+    <string name="notification_slider_flashlight_on">Aktiv</string>
+    <string name="notification_slider_brightness_auto">Avto</string>
+    <string name="notification_slider_rotation_auto">Avto</string>
+    <string name="notification_slider_ringer_vibrate">Titrəmə</string>
+    <string name="notification_slider_ringer_silent">Səssiz</string>
 </resources>

@@ -16,32 +16,33 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Meddelelsesskyder</string>
-  <string name="notification_slider_selection_dialog_title">Handling</string>
-  <string name="notification_slider_top_position">Øverste position</string>
-  <string name="notification_slider_middle_position">Midterste position</string>
-  <string name="notification_slider_bottom_position">Nederste position</string>
-  <string name="notification_slider_usage_title">Brug skyderen til</string>
-  <string name="notification_slider_for_notification">Underretning</string>
-  <string name="notification_slider_for_flashlight">Lommelygte</string>
-  <string name="notification_slider_for_brightness">Lysstyrke</string>
-  <string name="notification_slider_for_rotation">Rotation</string>
-  <string name="notification_slider_for_ringer">Ringetone</string>
-  <string name="notification_slider_mode_total_silence">Total stilhed</string>
-  <string name="notification_slider_mode_alarms_only">Kun alarmer</string>
-  <string name="notification_slider_mode_priority_only">Kun prioritet</string>
-  <string name="notification_slider_mode_none">Intet</string>
-  <string name="notification_slider_flashlight_off">Fra</string>
-  <string name="notification_slider_flashlight_on">Til</string>
-  <string name="notification_slider_flashlight_blink">Blink</string>
-  <string name="notification_slider_brightness_brightest">Lyseste</string>
-  <string name="notification_slider_brightness_darkest">Mørkeste</string>
-  <string name="notification_slider_rotation_portrait">Portræt</string>
-  <string name="notification_slider_rotation_landscape_90">Landskab (90°)</string>
-  <string name="notification_slider_rotation_landscape_270">Landskab (270°)</string>
-  <string name="notification_slider_ringer_normal">Normal</string>
-  <string name="notification_slider_ringer_vibrate">Vibrér</string>
-  <string name="notification_slider_ringer_silent">Lydløs</string>
-  <string name="notification_slider_caffeine_off">Fra</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_category_title">Meddelelsesskyder</string>
+    <string name="notification_slider_selection_dialog_title">Handling</string>
+    <string name="notification_slider_top_position">Øverste position</string>
+    <string name="notification_slider_middle_position">Midterste position</string>
+    <string name="notification_slider_bottom_position">Nederste position</string>
+    <string name="notification_slider_usage_title">Brug skyderen til</string>
+    <string name="notification_slider_for_notification">Underretning</string>
+    <string name="notification_slider_for_flashlight">Lommelygte</string>
+    <string name="notification_slider_for_brightness">Lysstyrke</string>
+    <string name="notification_slider_for_rotation">Rotation</string>
+    <string name="notification_slider_for_ringer">Ringetone</string>
+    <string name="notification_slider_for_caffeine">Koffein</string>
+    <string name="notification_slider_mode_total_silence">Total stilhed</string>
+    <string name="notification_slider_mode_alarms_only">Kun alarmer</string>
+    <string name="notification_slider_mode_priority_only">Kun prioritet</string>
+    <string name="notification_slider_mode_none">Intet</string>
+    <string name="notification_slider_flashlight_off">Fra</string>
+    <string name="notification_slider_flashlight_on">Til</string>
+    <string name="notification_slider_flashlight_blink">Blink</string>
+    <string name="notification_slider_brightness_brightest">Lyseste</string>
+    <string name="notification_slider_brightness_darkest">Mørkeste</string>
+    <string name="notification_slider_rotation_portrait">Portræt</string>
+    <string name="notification_slider_rotation_landscape_90">Landskab (90°)</string>
+    <string name="notification_slider_rotation_landscape_270">Landskab (270°)</string>
+    <string name="notification_slider_ringer_normal">Normal</string>
+    <string name="notification_slider_ringer_vibrate">Vibrér</string>
+    <string name="notification_slider_ringer_silent">Lydløs</string>
+    <string name="notification_slider_caffeine_off">Fra</string>
 </resources>

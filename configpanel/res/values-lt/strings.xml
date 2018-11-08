@@ -16,15 +16,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Veiksmas</string>
-  <string name="notification_slider_for_brightness">Šviesumas</string>
-  <string name="notification_slider_mode_none">MoKee visos versijos</string>
-  <string name="notification_slider_flashlight_off">Išjungti</string>
-  <string name="notification_slider_flashlight_on">Įjungta</string>
-  <string name="notification_slider_brightness_auto">Automobiliai</string>
-  <string name="notification_slider_rotation_auto">Automobiliai</string>
-  <string name="notification_slider_ringer_vibrate">Vibruoti</string>
-  <string name="notification_slider_ringer_silent">Tylus</string>
-  <string name="notification_slider_caffeine_off">Išjungti</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Veiksmas</string>
+    <string name="notification_slider_for_brightness">Šviesumas</string>
+    <string name="notification_slider_mode_none">MoKee visos versijos</string>
+    <string name="notification_slider_flashlight_off">Išjungti</string>
+    <string name="notification_slider_flashlight_on">Įjungta</string>
+    <string name="notification_slider_brightness_auto">Automobiliai</string>
+    <string name="notification_slider_rotation_auto">Automobiliai</string>
+    <string name="notification_slider_ringer_vibrate">Vibruoti</string>
+    <string name="notification_slider_ringer_silent">Tylus</string>
+    <string name="notification_slider_caffeine_off">Išjungti</string>
 </resources>

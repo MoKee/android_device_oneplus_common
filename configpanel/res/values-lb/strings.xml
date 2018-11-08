@@ -16,12 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification slider -->
-  <string name="notification_slider_selection_dialog_title">Aktioun</string>
-  <string name="notification_slider_for_brightness">Hellegkeet</string>
-  <string name="notification_slider_flashlight_on">Un</string>
-  <string name="notification_slider_brightness_auto">Automatesch</string>
-  <string name="notification_slider_rotation_auto">Automatesch</string>
-  <string name="notification_slider_ringer_vibrate">Vibréieren</string>
-  <string name="notification_slider_ringer_silent">Roueg</string>
+    <!-- Notification slider -->
+    <string name="notification_slider_selection_dialog_title">Aktioun</string>
+    <string name="notification_slider_for_brightness">Hellegkeet</string>
+    <string name="notification_slider_for_caffeine">Koffein</string>
+    <string name="notification_slider_flashlight_on">Un</string>
+    <string name="notification_slider_brightness_auto">Automatesch</string>
+    <string name="notification_slider_rotation_auto">Automatesch</string>
+    <string name="notification_slider_ringer_vibrate">Vibréieren</string>
+    <string name="notification_slider_ringer_silent">Roueg</string>
 </resources>
