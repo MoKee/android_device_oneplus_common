@@ -18,12 +18,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Notification slider -->
     <string name="notification_slider_usage_title">Use Slider For</string>
-    <string name="notification_slider_for_flashlight">Flashlight</string>
-    <string name="notification_slider_for_rotation">Rotation</string>
-    <string name="notification_slider_for_ringer">Ringer</string>
+    <string name="notification_slider_for_flashlight">Torcia</string>
+    <string name="notification_slider_for_rotation">Rotazione</string>
+    <string name="notification_slider_for_ringer">Suoneria</string>
     <string name="notification_slider_mode_none">None</string>
     <string name="notification_slider_flashlight_off">Off</string>
-    <string name="notification_slider_flashlight_blink">Blink</string>
+    <string name="notification_slider_flashlight_blink">Lampeggio</string>
     <string name="notification_slider_brightness_brightest">Brightest</string>
     <string name="notification_slider_brightness_darkest">Darkest</string>
     <string name="notification_slider_rotation_landscape_90">Landscape (90°)</string>
