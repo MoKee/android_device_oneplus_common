@@ -19,7 +19,11 @@
     <!-- Notification slider -->
     <string name="notification_slider_selection_dialog_title">ແອັກຊັນ</string>
     <string name="notification_slider_for_brightness">ຄວາມສະຫວ່າງ</string>
+    <string name="notification_slider_mode_none">ທັງຫມົດ</string>
+    <string name="notification_slider_flashlight_off">ປິດ</string>
     <string name="notification_slider_flashlight_on">ເປີດ</string>
     <string name="notification_slider_brightness_auto">ອັດຕະໂນມັດ</string>
     <string name="notification_slider_rotation_auto">ອັດຕະໂນມັດ</string>
+    <string name="notification_slider_ringer_silent">ງຽບ</string>
+    <string name="notification_slider_caffeine_off">ປິດ</string>
 </resources>

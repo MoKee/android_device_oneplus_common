@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="button_panel_summary">Trocar botões, Spider de notificações</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Botão deslizante de notificações</string>
     <string name="notification_slider_selection_dialog_title">Ação</string>
@@ -33,6 +34,7 @@
     <string name="notification_slider_mode_alarms_only">Apenas alarmes</string>
     <string name="notification_slider_mode_priority_only">Apenas prioridade</string>
     <string name="notification_slider_mode_none">Nenhuma</string>
+    <string name="notification_slider_flashlight_off">Desativado</string>
     <string name="notification_slider_flashlight_on">Ativado</string>
     <string name="notification_slider_flashlight_blink">Piscar</string>
     <string name="notification_slider_brightness_auto">Automático</string>
@@ -42,6 +44,12 @@
     <string name="notification_slider_rotation_portrait">Retrato</string>
     <string name="notification_slider_rotation_landscape_90">Modo paisagem (90º)</string>
     <string name="notification_slider_rotation_landscape_270">Modo paisagem (270º)</string>
+    <string name="notification_slider_ringer_normal">Normal</string>
     <string name="notification_slider_ringer_vibrate">Vibrar</string>
     <string name="notification_slider_ringer_silent">Silêncio</string>
+    <string name="notification_slider_caffeine_off">Desativado</string>
+    <string name="notification_slider_caffeine_5min">5 min</string>
+    <string name="notification_slider_caffeine_10min">10 min</string>
+    <string name="notification_slider_caffeine_30min">30 min</string>
+    <string name="notification_slider_caffeine_infinity">Para sempre</string>
 </resources>
