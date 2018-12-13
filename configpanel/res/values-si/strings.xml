@@ -18,9 +18,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Notification slider -->
     <string name="notification_slider_selection_dialog_title">ක්‍රියාව</string>
+    <string name="notification_slider_usage_title">සඳහා ස්ලයිඩරය භාවිතා කරන්න</string>
+    <string name="notification_slider_for_flashlight">ක්ෂණික දීප්තියක් දෙන එළිය</string>
     <string name="notification_slider_for_brightness">දීප්තිමත් බව</string>
+    <string name="notification_slider_for_rotation">භ්‍රමණය</string>
+    <string name="notification_slider_for_ringer">නදවනය</string>
     <string name="notification_slider_flashlight_on">සක්‍රීයයි</string>
+    <string name="notification_slider_flashlight_blink">ඇසිපිය භෙළනවා</string>
     <string name="notification_slider_brightness_auto">ස්වයංක්‍රීය</string>
+    <string name="notification_slider_brightness_brightest">දීප්තිමත්ම</string>
+    <string name="notification_slider_brightness_darkest">අඳුරුම</string>
     <string name="notification_slider_rotation_auto">ස්වයංක්‍රීය</string>
     <string name="notification_slider_ringer_vibrate">කම්පනය</string>
 </resources>
